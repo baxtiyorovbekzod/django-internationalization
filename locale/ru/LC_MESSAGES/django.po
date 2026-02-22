@@ -90,11 +90,11 @@ msgstr "fasdfasd"
 
 #: templates/posts.html:22
 msgid "Read more"
-msgstr ""
+msgstr "прj"
 
 #: templates/posts.html:28
 msgid "No posts found."
-msgstr ""
+msgstr "ррщ"
 
 #~ msgid "almashtir"
 #~ msgstr "изменять"

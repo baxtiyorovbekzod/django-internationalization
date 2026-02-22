@@ -27,13 +27,13 @@ msgid "About This Blog"
 msgstr "Blog haqida"
 
 #: templates/about.html:11
-msgid ""
+msgid "bilmadim"
 "\n"
 "        This blog shares articles about software engineering, backend "
 "development,\n"
 "        architecture design, and real-world programming experience.\n"
 "        "
-msgstr ""
+msgstr "ok"
 
 #: templates/about.html:17
 msgid "Topics"
@@ -41,32 +41,32 @@ msgstr "Mavzular"
 
 #: templates/about.html:19
 msgid "Python & Django"
-msgstr ""
+msgstr "bekorchilik"
 
 #: templates/about.html:20
 msgid "System Design"
-msgstr ""
+msgstr "sistw"
 
 #: templates/about.html:21
 msgid "Performance Optimization"
-msgstr ""
+msgstr "nega "
 
 #: templates/about.html:22
 msgid "Clean Code & Best Practices"
-msgstr ""
+msgstr "bilmadim"
 
 #: templates/about.html:25
 msgid "Goal"
 msgstr "Maqsad"
 
 #: templates/about.html:27
-msgid ""
+msgid "qiziq"
 "\n"
 "        The goal of this website is to explain complex technical topics in a "
 "simple\n"
 "        and structured way, based on real production experience.\n"
 "        "
-msgstr ""
+msgstr "ok"
 
 #: templates/base.html:9
 msgid "Simple Blog"
